@@ -1,0 +1,21 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dmyachin83@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.11.0",
+    "axios": "^0.19.2",
+    "graphql-tools": "^4.0.7",
+    "merge-graphql-schemas": "^1.7.6",
+    "mongoose": "^5.9.7",
+    "mongoose-timestamp": "^0.6.0",
+    "node-fetch": "^2.6.0",
+    "request-promise": "^4.2.5"
+  }
+}

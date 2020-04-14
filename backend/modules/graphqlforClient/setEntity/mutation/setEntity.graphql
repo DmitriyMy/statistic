@@ -1,0 +1,3 @@
+type Mutation {
+    setEntity(input: baseObject): Boolean
+}

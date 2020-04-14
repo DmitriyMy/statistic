@@ -1,0 +1,23 @@
+input baseObject {
+    ID: String
+    Parametr1: Float
+    Parametr2: Float
+    Parametr3: Float
+    Parametr4: Float
+    Parametr5: Float
+    Parametr6: Float
+    Parametr7: Float
+    Parametr8: Float
+    Parametr9: Float
+    Parametr10: Float
+    Parametr11: Float
+    Parametr12: Float
+    Parametr13: Float
+    Parametr14: Float
+    Parametr15: Float
+    Parametr16: Float
+    Parametr17: Float
+    Parametr18: Float
+    Parametr19: Float
+    Parametr20: Float
+}
